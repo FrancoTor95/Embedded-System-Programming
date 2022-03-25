@@ -41,9 +41,9 @@ Every lesson will be updated during the course.
 * [C basic programming](https://github.com/FrancoTor95/Embedded-System-Programming/tree/main/01%20-%20C%20Programming#introduction-to-the-c-programming-language)
 * [Microcontroller programming with STM32](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/02%20-%20STM32%20Programmazione%20Base)
     * [Architecture and registers](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/02%20-%20STM32%20Programmazione%20Base#arm-architecture-registers)
-    * [Bitwise operations]
-* [GPIO]
-    * [GPIO basic programming in STM32Cube]
+    * [Bitwise operations](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#bitwise-operations)
+* [GPIO](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#gpio-and-related-registers)
+    * [GPIO basic programming in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#lets-get-to-work)
 * [Interrupt]
     * [Interrupts in STM32Cube]
 * [ADC]
