@@ -44,8 +44,8 @@ Every lesson will be updated during the course.
     * [Bitwise operations](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#bitwise-operations)
 * [GPIO](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#gpio-and-related-registers)
     * [GPIO basic programming in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#lets-get-to-work)
-* [Interrupt]
-    * [Interrupts in STM32Cube]
+* [Interrupt](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/04%20-%20GPIOs%20and%20Interrupts#gpio-ed-interrupt)
+    * [Interrupts in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/04%20-%20GPIOs%20and%20Interrupts#implementation-and-other-details)
 * [ADC]
     * [ADC in STM32Cube]
         * [Polling Mode]
