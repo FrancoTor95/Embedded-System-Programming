@@ -46,10 +46,10 @@ Every lesson will be updated during the course.
     * [GPIO basic programming in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/03%20-%20Digital%20IO%20e%20GPIO#lets-get-to-work)
 * [Interrupt](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/04%20-%20GPIOs%20and%20Interrupts#gpio-ed-interrupt)
     * [Interrupts in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/04%20-%20GPIOs%20and%20Interrupts#implementation-and-other-details)
-* [ADC]
-    * [ADC in STM32Cube]
-        * [Polling Mode]
-        * [Interrupt Mode]
+* [ADC](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#analog-io)
+    * [ADC in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#adcdac-and-stm32)
+        * [Polling Mode](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#adc-use-case)
+        * [Interrupt Mode](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#interrupt-mode)
 * [Timers]
     * [Timers in STM32Cube]
     * [General Purpose Timers in STM32Cube]
