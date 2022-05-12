@@ -50,18 +50,18 @@ Every lesson will be updated during the course.
     * [ADC in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#adcdac-and-stm32)
         * [Polling Mode](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#adc-use-case)
         * [Interrupt Mode](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/05%20-%20Analog%20IO#interrupt-mode)
-* [Timers]
-    * [Timers in STM32Cube]
-    * [General Purpose Timers in STM32Cube]
-* [PWM]
-    * [Gnerating PWM signals in STM32Cube]
-* [Seriale communication]
-    * [UART/USART]
-        * [UART in STM32Cube]
-    * [I<sup>2</sup>C]
-        * [I<sup>2</sup>C in STM32Cube]
-    * [SPI]
-        * [SPI in STM32Cube]
+* [Timers](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/08%20-%20Timers%20e%20PWM#timers-e-pwm)
+    * [Timers in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/08%20-%20Timers%20e%20PWM#using-timers-in-stm32cube)
+* [PWM](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/08%20-%20Timers%20e%20PWM#pulse-width-modulation-pwm)
+    * [Gnerating PWM signals in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/08%20-%20Timers%20e%20PWM#pwm-generation-in-stm32cube)
+* [Seriale communication Part 1](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/06%20-%20Serial%20Communication#serial-communication-uartusart)
+    * [UART/USART](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/06%20-%20Serial%20Communication#uart-e-usart)
+        * [UART in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/06%20-%20Serial%20Communication#uartusart-in-stm32-microcontrollers)
+* [Seriale communication Part 2](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/07%20-%20Serial%20Communication_%20Part%202#serial-communication-part-2-ic-and-spi)
+    * [I<sup>2</sup>C](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/07%20-%20Serial%20Communication_%20Part%202#i2c)
+        * [I<sup>2</sup>C in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/07%20-%20Serial%20Communication_%20Part%202#i2c-in-stm32-microcontrollers)
+    * [SPI](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/07%20-%20Serial%20Communication_%20Part%202#spi)
+        * [SPI in STM32Cube](https://github.com/FrancoTor95/Embedded-System-Programming/tree/master/07%20-%20Serial%20Communication_%20Part%202#spi-in-stm32-microcontrollers)
 * [Embedded Systems and RTOS]
     * [CMSIS-RTOS]
     * [RTOS in STM32Cube // FreeRTOS]
